@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cachy Display Ultra
+Comment=Ajuste de saturação e cores (ThinkPad)
+Exec=/usr/bin/cachy-display-tool
+Icon=video-display
+Terminal=false
+Categories=Settings;HardwareSettings;
+Keywords=display;color;saturation;gamma;

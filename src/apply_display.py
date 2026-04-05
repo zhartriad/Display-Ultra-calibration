@@ -1,0 +1,1 @@
+/home/zharzinho/Downloads/CachyDisplay/apply_display.py

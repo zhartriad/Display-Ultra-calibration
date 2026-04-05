@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Cachy Display Autostart
+Comment=Aplica as configurações de cor salvas
+Exec=/usr/bin/cachy-display-apply
+OnlyShowIn=XFCE;GNOME;KDE;
+Terminal=false
