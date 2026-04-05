@@ -55,3 +55,6 @@ The project is split into two main components:
 ---
 
 > *Created with a focus on performance, aesthetics, open-source development.*
+
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt2OWw5N2h0aXk1dXVpand1bXE0eGc2amR3enM5bTN6bzRuMTY2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" width="300">   
