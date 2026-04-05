@@ -54,4 +54,4 @@ The project is split into two main components:
 
 ---
 
-> *Created with a focus on performance, aesthetics, and the power of AI-assisted open-source development.*
+> *Created with a focus on performance, aesthetics, open-source development.*
