@@ -41,8 +41,8 @@ The project is split into two main components:
 
 1.  **Clone** this repository:
     ```bash
-    git clone [https://github.com/zhartriad/Display-Ultra-calibration.git](https://github.com/zhartriad/Display-Ultra-calibration.git)
-    cd Display-Ultra-calibration
+     git clone https://github.com/zhartriad/Display-Ultra-calibration.git
+     cd Display-Ultra-calibration   
     ```
 2.  **Ensure** you have the dependencies installed: 
     `python-gobject`, `gtk3`, `libvibrant`, and `xorg-xrandr`.
